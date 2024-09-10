@@ -18,7 +18,7 @@ A simple command-line interface (CLI) application built with TypeScript for crea
 
 ## Demo
 
-[Watch the Demo Video](https://www.youtube.com/watch?v=876aoKtfEew)
+[![Demo Video]([https://your-repo-url/path-to-image.png](https://github.com/user-attachments/assets/ed06ac20-0e27-4076-969b-5a3fc2a07a6f))](https://www.youtube.com/watch?v=876aoKtfEew)
 
 ## Features
 
