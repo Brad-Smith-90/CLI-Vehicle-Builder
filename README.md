@@ -49,7 +49,7 @@ Make sure you have the following installed:
 
 ```   
 bash
-   [git clone https://github.com/yourusername/cli-vehicle-builder.git](https://github.com/Brad-Smith-90/CLI-Vehicle-Builder.git)
+   [git clone https://github.com/Brad-Smith-90/cli-vehicle-builder.git](https://github.com/Brad-Smith-90/CLI-Vehicle-Builder.git)
 ```
 2. Navigate into the project directory:
 
@@ -132,7 +132,7 @@ A simple command-line interface (CLI) application built with TypeScript for crea
 
 ## Demo
 
-[![Demo Video](CLI-Vehicle-Builder\assets\proj2demo.png)](https://www.youtube.com/watch?v=876aoKtfEew)
+[![Demo Video](file:///C:/Users/bsmit/OneDrive/Pictures/proj2demo.png)](https://www.youtube.com/watch?v=876aoKtfEew)
 
 ## Features
 
