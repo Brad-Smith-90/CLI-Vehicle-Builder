@@ -51,7 +51,7 @@ Make sure you have the following installed:
 
    
 bash
-   git clone https://github.com/yourusername/cli-vehicle-builder.git
+   [git clone https://github.com/yourusername/cli-vehicle-builder.git](https://github.com/Brad-Smith-90/CLI-Vehicle-Builder.git)
 
 2. Navigate into the project directory:
 bash
