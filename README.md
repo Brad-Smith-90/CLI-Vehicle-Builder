@@ -47,10 +47,10 @@ Make sure you have the following installed:
 
 1. Clone the repository:
 
-```   
-bash
+   
+
    [git clone https://github.com/Brad-Smith-90/cli-vehicle-builder.git](https://github.com/Brad-Smith-90/CLI-Vehicle-Builder.git)
-```
+
 2. Navigate into the project directory:
 
 ```bash
